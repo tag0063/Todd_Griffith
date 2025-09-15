@@ -27,3 +27,26 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+___
+___
+
+Worksheet 2 Sample size for disease detection
+
+1) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%. 
+
+Answer: (59) ≈ 60
+
+2) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:                                                                                      
+
+a) 95% confidence in detecting a disease at 1% prevalence in a large population
+
+Answer: (290) ≈ 300
+
+b) 99% confidence in detecting a disease at 2% prevalence in a large population
+
+Answer: (224) ≈ 230
+
+3) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is < 1%.
+
+___
