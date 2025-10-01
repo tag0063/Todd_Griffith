@@ -70,3 +70,56 @@ Answer: (224) ≈ 230
 
 ___
 
+Worksheet 3: Measures of disease frequency: Prevalence and Incidence
+
+a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points)      
+
+Incidence proportion (risk) for a day = (new cases that day) / (susceptible at start of day). Unit: proportion per day (% per day).
+
+Incidence proportion (risk) for a day ="new cases that day" /"susceptible at start of day" .
+
+Unit: proportion per day (often reported as a % per day).
+
+06/12/25
+
+New cases = 5.
+
+Susceptible at start = 56-5=51(5 had ever been infected by end 06/11).
+
+Incident = 5/51= 0.0980 ≈ 9.8% per day.
+
+06/14/25
+
+New cases = 2.
+
+Susceptible at start = 56-12=44(12 had ever been infected by end 06/13).
+
+Incidence =2/44= 0.04545 ≈ 4.55% per day.
+
+06/15/25
+
+New cases = 0.
+
+Susceptible at start = 56-14=42(14 had ever been infected by end 06/14).
+
+Incidence = 0/42 = 0% per day.
+
+b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.   (5 points)                              
+
+Point prevalence = (number of cases on the day) / (total herd size).
+
+Unit: proportion (% of herd).
+
+06/13/25: 12 cases / 56 = 0.2143 ≈ 21.43%
+
+06/16/25: 5 cases / 56 = 0.0893 ≈ 8.93%
+
+c) On which day is the prevalence same as the incidence (except the units)? (3 points)
+
+On 06/10/25, prevalence = 1 case and incidence = 1 new case.
+
+Although units differ, the numeric values were equal.
+
+d) On which day is the incidence lowest?  (3 points)
+
+The lowest incidence occurred on 06/15/25 (and also on 06/16/25), with 0 new cases.
