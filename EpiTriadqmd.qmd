@@ -28,51 +28,33 @@ You can add options to executable code like this
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
-___
-___
+\_\_\_
 
 Worksheet 2 Sample size for disease detection
 
-https://github.com/anyadoc/audiseco/commit/ac0296d31285891d4a223cc967712fcc32aa98b9#diff-a4e970b31a85978f04fcf66b97f24c64c6eb74d97c79552f751416b26bb86d2e
+![](Probability%20of%20detecting%20one%20positive.jpg)
 
-1) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%. 
-
-Answer: (59) ≈ 60
-
-2) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:                                                                                      
-
-a) 95% confidence in detecting a disease at 1% prevalence in a large population
-
-Answer: (290) ≈ 300
-
-b) 99% confidence in detecting a disease at 2% prevalence in a large population
-
-Answer: (224) ≈ 230
-
-3) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is < 1%.
-
-___
-1) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%. 
+1\) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%. 
 
 Answer: (59) ≈ 60
 
-2) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:                                                                                      
+2\) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:                                                                                      
 
-a) 95% confidence in detecting a disease at 1% prevalence in a large population
+a\) 95% confidence in detecting a disease at 1% prevalence in a large population
 
 Answer: (290) ≈ 300
 
-b) 99% confidence in detecting a disease at 2% prevalence in a large population
+b\) 99% confidence in detecting a disease at 2% prevalence in a large population
 
 Answer: (224) ≈ 230
 
-3) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is < 1%.
+3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \< 1%.
 
-___
+\_\_\_
 
-Worksheet 3: Measures of disease frequency: Prevalence and Incidence
+**Worksheet 3: Measures of disease frequency: Prevalence and Incidence**
 
-a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points)      
+a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points)     
 
 06-12-25: 5 new cases
 
@@ -88,18 +70,38 @@ a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for inc
 
 06-15-25: 0 new cases
 
-b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.   (5 points)        
+b\) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.   (5 points)       
 
 06/13/25: 12 cases / 56 = 0.2143 = 21.43%
 
 06/16/25: 5 cases / 56 = 0.0893 = 8.93%
 
-c) On which day is the prevalence same as the incidence (except the units)? (3 points)
+c\) On which day is the prevalence same as the incidence (except the units)? (3 points)
 
 On 06/10/25, prevalence = 1 case and incidence = 1 new case.
 
 Although units differ, the numeric values were equal.
 
-d) On which day is the incidence lowest?  (3 points)
+d\) On which day is the incidence lowest?  (3 points)
 
 The lowest incidence occurred on 06/15/25 (and also on 06/16/25), with 0 new cases.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Identifying Ticks and Public Health Significance**
+
+Key external features of hard ticks (family *Ixodidae*) are visible with a hand lens or low-power microscope. These ticks possess a rigid dorsal shield (scutum), which partially covers the back in females and the entire dorsum in males. Their mouthparts (capitulum) project forward from the front of the body, and both nymphs and adults have eight legs but lack antennae. Additional traits include the position of the anal groove, presence of spiracular plates, and visibility of eyes or festoons. These can help distinguish among genera. These structural markers are useful for identifying common North American species, including *Ixodes scapularis* (black-legged tick), Dermacentor variabilis (American dog tick), and *Amblyomma americanum* (lone star tick) (Keirans & Litwak, 1989).
+
+Ticks in the United States can transmit a range of pathogens These include bacteria, viruses, and parasites. These can lead to serious illnesses in humans. Among the most prevalent tickborne diseases are Lyme disease, anaplasmosis, ehrlichiosis, babesiosis, Rocky Mountain spotted fever, and Powassan virus disease (CDC, 2024a). Each year, U.S. health departments report more than 46,000 cases of these infections (CDC, 2024b). As tick populations expand, the risk of exposure increases—even in regions where certain species were previously uncommon (CDC, 2024c). To reduce the chance of infection, the CDC advises using EPA-registered insect repellents, wearing protective clothing such as long sleeves and pants, performing thorough tick checks after outdoor activities, and removing any attached ticks promptly and properly (CDC, 2024d).
+
+**References**
+
+Centers for Disease Control and Prevention (CDC). (2024a). About ticks and tickborne diseases.
+
+Centers for Disease Control and Prevention (CDC). (2024b). Tickborne disease surveillance data summary.
+
+Centers for Disease Control and Prevention (CDC). (2024c). Vector-borne diseases: Fight the bite.
+
+Centers for Disease Control and Prevention (CDC). (2024d). Preventing tick bites.
+
+Keirans, J. E., & Litwak, T. R. 1989. Pictorial key to the adults of hard ticks (*Ixodidae*) east of the Mississippi River. Journal of Medical Entomology, 26(5), 435-448.
