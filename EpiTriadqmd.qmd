@@ -105,3 +105,71 @@ Centers for Disease Control and Prevention (CDC). (2024c). Vector-borne diseases
 Centers for Disease Control and Prevention (CDC). (2024d). Preventing tick bites.
 
 Keirans, J. E., & Litwak, T. R. 1989. Pictorial key to the adults of hard ticks (*Ixodidae*) east of the Mississippi River. Journal of Medical Entomology, 26(5), 435-448.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# **Midterm Corrections**
+
+Dear Dr. Belsare,
+
+Thank you for the opportunity to submit corrections. I reviewed all questions where partial credit was deducted and made appropriate revisions. For your reference, I’ve included my corrected responses to Questions 7 and 9 below.
+
+**Question 7**
+
+In May 2015, a catastrophic die-off of Saiga antelope occurred in central Kazakhstan, resulting in the deaths of more than 200,000 individuals in less than two weeks. This event remains one of the most severe wildlife mortality incidents ever recorded. Understanding the proximate cause, environmental triggers, and ecological mechanisms provides valuable insight into wildlife disease ecology and future conservation planning. (20 points)
+
+**Proximate Cause**
+
+The immediate cause of death was hemorrhagic septicemia, triggered by the normally benign bacterium *Pasteurella multocida* type B. Under ordinary conditions, this bacterium exists harmlessly in the tonsils and upper respiratory tract of Saiga. During the 2015 calving season, unusually warm and humid weather created ideal conditions for bacterial proliferation and virulence activation. Once systemic infection occurred, the bacteria spread rapidly through the bloodstream, causing acute septicemia and internal hemorrhaging. Affected animals died within twenty-four hours, with mortality reaching nearly one hundred percent in impacted herds.
+
+**Mechanism Leading to Large-Scale Mortality**
+
+Several ecological and physiological factors contributed to the rapid, large-scale mortality. Saiga antelope calve synchronously, forming dense aggregations of females and newborns, which increases exposure and stress. The combination of high humidity, elevated temperatures, and dense grouping likely compromised immune function and enhanced bacterial activation. Because Pasteurella multocida is an endemic bacterium, every individual was susceptible, and the outbreak occurred almost simultaneously across multiple herds. The speed and severity of infection left no opportunity for behavioral avoidance, natural immunity, or management intervention to mitigate losses.
+
+**Preventive Measures**
+
+Future prevention efforts should focus on anticipating and managing the environmental conditions that promote bacterial outbreaks. This includes continuous monitoring of temperature, humidity, and herd aggregation during calving seasons. Early disease surveillance programs should collect carcass samples and conduct laboratory diagnostics to confirm bacterial activation. In regions with high historical risk, managers could explore limited prophylactic vaccination or temporary herd dispersal during extreme weather. Prompt carcass disposal through burning or deep burial is essential to prevent contamination of soil and water sources.
+
+**Broader Conservation Strategies**
+
+To safeguard Saiga populations from future epizootics, conservation planning must enhance both ecological and population resilience. Maintaining several subpopulations across their range reduces the risk that a single outbreak will cause species-wide collapse. Protecting migration routes and calving areas reduces crowding and stress, which are major contributors to disease expression. Implementing a One Health approach that integrates wildlife, livestock, and human disease surveillance will allow for coordinated monitoring and response. Long-term monitoring using remote sensing and telemetry can help identify climatic and ecological conditions that signal disease risk. Engaging local herders and communities strengthens reporting networks and minimizes human disturbance during calving periods.
+
+**Summary**
+
+The 2015 Saiga mortality event demonstrated how environmental stress can transform a normally harmless bacterium into a fatal pathogen. This outbreak underscores the interconnectedness of climate, host physiology, and microbial ecology. Comprehensive surveillance, habitat protection, and integrated health management are essential to prevent future catastrophic losses and ensure the persistence of Saiga antelope across the Central Asian plain.
+
+**Question 9**
+
+**Explanation:**
+
+R₀ is the average number of secondary infections from one case in a fully susceptible population.
+
+Each illustration represents one infectious flamingo (red) and the number of susceptible flamingos (blue) it infects. Each arrow represents one secondary infection.
+
+**Illustration Number of Secondary Infections**
+
+1             1
+
+2             3
+
+3             2
+
+4             0
+
+**Calculation**
+
+1\. Secondary infections: 1 + 3 + 2 + 0 = 6
+
+2\. Total infectious individuals (red flamingos): 4
+
+3\. Calculate the average number of new infections per infectious host:
+
+   R₀ = 6 / 4 = 1.5
+
+**Explanation**
+
+The calculated R₀ = 1.5 indicates that each infected flamingo, on average, produces 1.5 new infections in a fully susceptible population.
+
+Because R₀ \> 1, the infection has the potential to spread and become established in the population.
+
+If R₀ were \< 1, the infection would likely fade out over time.
