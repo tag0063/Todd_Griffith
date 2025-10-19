@@ -173,3 +173,39 @@ The calculated R₀ = 1.5 indicates that each infected flamingo, on average, pro
 Because R₀ \> 1, the infection has the potential to spread and become established in the population.
 
 If R₀ were \< 1, the infection would likely fade out over time.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# **Worksheet 4: Multi-host pathogens, Spillover**
+
+**1. MERS-CoV is primarily maintained in human populations. (2 points)**
+
+Incorrect
+
+MERS-CoV is not maintained in human populations. The primary reservoir is the camel. Camels harbor the virus endemically and periodically transmit it to humans through direct contact (handling, milking, slaughter) or respiratory droplets.
+
+2.  **Camels serve as the main animal reservoir for MERS-CoV. (2 points)**
+
+    Correct
+
+Camels are the primary animal reservoir for Middle East Respiratory Syndrome Coronavirus (MERS-CoV). The virus has been endemic in camel populations across the Arabian Peninsula, North Africa, and parts of East Africa for decades.
+
+3.  **Humans are dead-end hosts for MERS-CoV. (2 points)**
+
+    Correct (Depending on the context)
+
+    In most situations, humans act as dead-end hosts for MERS-CoV because the virus does not circulate sustainably within human populations. Most human infections result from direct contact with infected camels rather than ongoing person-to-person transmission.
+
+    However, limited human-to-human transmission can occur, particularly in healthcare or household settings, where close contact enables spread through respiratory droplets.  Humans are functionally dead-end hosts under natural conditions, but not strictly so, since transmission is possible in specific high-risk environments.
+
+4.  **The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (2 points)**
+
+    Incorrect
+
+    The case fatality rate (CFR) for human MERS-CoV infections is approximately 35%, not 65%. This is based on confirmed cases reported to the World Health Organization (WHO) and the European Centre for Disease Prevention and Control (ECDC) since the virus was first identified in 2012.
+
+5.  **The epidemic curve indicates this is a point source outbreak. (2 points)**
+
+    Incorrect
+
+    The MERS-CoV epidemic curve does not represent a point source outbreak. A point source outbreak occurs when all cases are exposed to the same infection source at roughly the same time, producing a sharp, single peak followed by a rapid decline
