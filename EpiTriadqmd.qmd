@@ -209,3 +209,31 @@ Camels are the primary animal reservoir for Middle East Respiratory Syndrome Cor
     Incorrect
 
     The MERS-CoV epidemic curve does not represent a point source outbreak. A point source outbreak occurs when all cases are exposed to the same infection source at roughly the same time, producing a sharp, single peak followed by a rapid decline
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet 5: Community Epidemiology Framework**
+
+**Marburg Virus Outbreak, Rwanda 2024**
+
+The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units. ​
+
+​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.                                                **5 points**
+
+Using the community epidemiology framework developed by Fenton and Pedersen (2005), the 2024 Marburg virus outbreak in Rwanda is best classified as an emerging infectious disease rather than a single spillover event. The first human infection likely occurred after exposure to Egyptian rousette bats (*Rousettus aegyptiacus*), which serve as the natural reservoir for Marburg virus. This initial case represents a classic spillover, direct transmission from the wildlife reservoir (H₁) to a novel host (H₂).
+
+However, the outbreak expanded beyond that initial exposure. Most of the 66 confirmed cases were health-care workers, primarily those in intensive care units, demonstrating sustained human-to-human transmission within the H₂ population. In the Fenton and Pedersen continuum, this pattern supports with Case 3, a “true multi-host pathogen,” characterized by limited between-species transmission (bats to humans) but high within-species transmission among humans. This transition from a zoonotic spillover to localized amplification reflects the ecological progression of an emerging infectious disease.
+
+The Marburg outbreak illustrates how pathogens can cross species barriers and achieve temporary persistence in human populations when ecological and behavioral conditions, such as health-care exposure, permitted transmission. It demonstrates the importance of controlling infection at the human–wildlife interface and within community settings to prevent a spillover from becoming an emerging disease.
+
+2\. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?                                                              **5 points**
+
+Reducing Marburg virus transmission requires coordinated actions that address both community-level exposure and health-care transmission risks.
+
+At the community level, the primary goal is to prevent initial spillover from wildlife reservoirs. Education campaigns should focus on minimizing direct contact with Egyptian rousette bats and avoiding entry into known roosting caves. Community leaders, hunters, and tourism guides play key roles in risk communication, especially in regions where bat colonies and humans overlap. Safe burial practices and culturally sensitive guidance on handling bodies are essential to reduce secondary transmission from deceased individuals.
+
+In health-care settings, infection prevention and control must be immediate and strict. Health-care workers should use standard, contact, and droplet precautions, including gowns, gloves, N95 masks, and face shields, when caring for suspected or confirmed cases. Training and reinforcement of donning and doffing procedures are critical to prevent accidental exposure. Isolation units should be used to separate confirmed patients, and all medical waste and contaminated materials must be disinfected or incinerated under biosafety protocols.
+
+As emphasized by Nutt (2025), equitable outbreak response depends on protecting both patients and providers. Providing adequate personal protective equipment, fair compensation, and mental health support for front-line health-care workers builds trust and ensures compliance with safety measures. Strengthening community partnerships, ensuring transparent communication, and respecting local customs all enhance public cooperation and long-term disease control.
+
+Together, these interventions limit both zoonotic spillover and human-to-human amplification, reducing the likelihood that localized outbreaks evolve into broader epidemics.
