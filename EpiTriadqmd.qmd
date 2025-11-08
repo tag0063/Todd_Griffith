@@ -237,3 +237,22 @@ In health-care settings, infection prevention and control must be immediate and 
 As emphasized by Nutt (2025), equitable outbreak response depends on protecting both patients and providers. Providing adequate personal protective equipment, fair compensation, and mental health support for front-line health-care workers builds trust and ensures compliance with safety measures. Strengthening community partnerships, ensuring transparent communication, and respecting local customs all enhance public cooperation and long-term disease control.
 
 Together, these interventions limit both zoonotic spillover and human-to-human amplification, reducing the likelihood that localized outbreaks evolve into broader epidemics.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**QPweb – Worksheet 6 Results (Vertico infection)**
+
++------------+-------+--------------+--------------------+----------------------+
+| **Pond**   | **N** | **Infected** | **Prevalence (%)** | **95 % CI (Sterne)** |
++------------+-------+--------------+--------------------+----------------------+
+| **Pond 1** | 20    | 6            | 30.0               | 14.0 – 52.5          |
++------------+-------+--------------+--------------------+----------------------+
+| **Pond 2** | 15    | 1            | 6.7                | 0.3 – 30.2           |
++------------+-------+--------------+--------------------+----------------------+
+
+**Fisher’s exact test:** p = 0.1987
+
+The prevalence of *Vertico* infection was **30.0 %** (95 % CI 14.0–52.5 %) in Pond 1 and **6.7 %** (95 % CI 0.3–30.2 %) in Pond 2.\
+Fisher’s exact test yielded **p = 0.1987**, indicating the difference in infection rates between ponds was **not statistically significant** (p \> 0.05).\
+
+Although the point estimate is higher in Pond 1, the wide overlapping confidence intervals suggest the observed variation may reflect sampling error rather than a true ecological difference.
