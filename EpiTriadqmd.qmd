@@ -242,13 +242,11 @@ Together, these interventions limit both zoonotic spillover and human-to-human a
 
 **QPweb – Worksheet 6 Results (Vertico infection)**
 
-+------------+-------+--------------+--------------------+----------------------+
+|            |       |              |                    |                      |
+|------------|-------|--------------|--------------------|----------------------|
 | **Pond**   | **N** | **Infected** | **Prevalence (%)** | **95 % CI (Sterne)** |
-+------------+-------+--------------+--------------------+----------------------+
 | **Pond 1** | 20    | 6            | 30.0               | 14.0 – 52.5          |
-+------------+-------+--------------+--------------------+----------------------+
 | **Pond 2** | 15    | 1            | 6.7                | 0.3 – 30.2           |
-+------------+-------+--------------+--------------------+----------------------+
 
 **Fisher’s exact test:** p = 0.1987
 
@@ -256,3 +254,35 @@ The prevalence of *Vertico* infection was **30.0 %** (95 % CI 14.0–52.5 %) in 
 Fisher’s exact test yielded **p = 0.1987**, indicating the difference in infection rates between ponds was **not statistically significant** (p \> 0.05).\
 
 Although the point estimate is higher in Pond 1, the wide overlapping confidence intervals suggest the observed variation may reflect sampling error rather than a true ecological difference.
+
+------------------------------------------------------------------------
+
+**Worksheet 7: Nipah Virus, Langya Henipavirus & Avian Reovirus**
+
+**Nipah Virus**
+
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.                                                        **8 points**
+
+Nipah virus shows different transmission patterns in Malaysia and Bangladesh because each region creates its own ecological pathway for spillover. In Malaysia, the presentation shows that changes in farming practices and rezoning brought fruit bats into closer contact with livestock. Domestic animals, especially pigs, acted as bridge species, allowing the virus to move from bats into herds and then into the people who worked around them. This makes the Malaysian system a more indirect transmission route—bat to livestock, then livestock to humans.
+
+In Bangladesh, the presentation highlights a different pattern. Here, climate variation influences bat migration, and seasonal behavior brings bats directly into contact with human food sources. The most important example shown is the date palm sap harvest, where bats feed from collection pots at night. This creates a more direct bat-to-human transmission route because people consume sap that bats have contaminated.
+
+These differences shape how prevention works in each region. In Malaysia, the emphasis is on changing farming practices, reducing bat access to livestock, and managing land-use decisions that create contact between bats and domestic animals. In Bangladesh, prevention focuses on reducing direct human exposure to bat-contaminated food sources and recognizing how seasonal bat movement, driven by climate, shapes risk. Each region’s ecology guides which preventive measures are most effective.
+
+**Avian Reovirus**
+
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.                                                              **6 points**
+
+Avian reoviruses (ARV) transmit through both horizontal and vertical routes. Horizontal transmission occurs through the fecal–oral route, where birds become infected by ingesting contaminated litter, feed, water, or surfaces. Vertical transmission happens when infection passes from the breeder hen to the chick through the egg.
+
+Environmental factors that favor ARV transmission include poor litter hygiene, overcrowding, inadequate ventilation, and contaminated feed or water. The virus can persist for weeks in litter and on contaminated surfaces, so conditions with high humidity, poor sanitation, and multi-age housing make spread more likely.
+
+Pathogen characteristics that support transmission include the virus’s environmental stability—ARV is resilient and can survive for extended periods outside the host. This stability helps maintain horizontal (fecal–oral) transmission because the virus remains infectious in litter, dust, and on surfaces long enough to reach new hosts.
+
+Example of a wild bird disease caused by ARV, from the presentation: Reovirus infections in wild birds can cause lameness and swollen joints, like the clinical signs shown in domestic birds. These signs reduce the birds’ mobility and overall fitness, leading to poor growth and making affected individuals less competitive or more vulnerable.
+
+**Langya henipavirus**
+
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?                                           **6 points**
+
+Langya virus is a zoonotic henipavirus whose natural reservoir is the shrew, with transmission occurring through direct or indirect contact with infected animals in rural environments. All human cases represent isolated spillover events, with no person-to-person spread, no geographic expansion, and no new cases since 2021. Because of this, LayV is considered a spillover infection rather than a potential EID, as it lacks evidence of sustained transmission, increasing incidence, or epidemic potential.
