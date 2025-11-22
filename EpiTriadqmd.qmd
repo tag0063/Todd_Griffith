@@ -7,38 +7,33 @@ editor: visual
 
 ![EpiTriad](images/EpiTriad.png)
 
-## Quarto
+------------------------------------------------------------------------
+
+## **Quarto**
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-## Running Code
+**Running Code**
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
-```{r}
-1 + 1
-```
+{r} 1 + 1
 
 You can add options to executable code like this
 
-```{r}
-#| echo: false
-2 * 2
-```
+{r} #\| echo: false 2 \* 2
 
-The `echo: false` option disables the printing of code (only output is displayed).
+The echo: false option disables the printing of code (only output is displayed).
 
-\_\_\_
+------------------------------------------------------------------------
 
-Worksheet 2 Sample size for disease detection
-
-![](Probability%20of%20detecting%20one%20positive.jpg)
+**Worksheet 2 Sample size for disease detection**
 
 1\) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%. 
 
 Answer: (59) ≈ 60
 
-2\) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:                                                                                      
+2\) Using hypergeometric distribution, compare the sample size requirements for the following scenarios:                                                                                      
 
 a\) 95% confidence in detecting a disease at 1% prevalence in a large population
 
@@ -50,11 +45,11 @@ Answer: (224) ≈ 230
 
 3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \< 1%.
 
-\_\_\_
+------------------------------------------------------------------------
 
 **Worksheet 3: Measures of disease frequency: Prevalence and Incidence**
 
-a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points)     
+a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.      
 
 06-12-25: 5 new cases
 
@@ -70,23 +65,23 @@ a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for in
 
 06-15-25: 0 new cases
 
-b\) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.   (5 points)       
+b\) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.       
 
 06/13/25: 12 cases / 56 = 0.2143 = 21.43%
 
 06/16/25: 5 cases / 56 = 0.0893 = 8.93%
 
-c\) On which day is the prevalence same as the incidence (except the units)? (3 points)
+c\) On which day is the prevalence same as the incidence (except the units)?
 
 On 06/10/25, prevalence = 1 case and incidence = 1 new case.
 
 Although units differ, the numeric values were equal.
 
-d\) On which day is the incidence lowest?  (3 points)
+d\) On which day is the incidence lowest? 
 
-The lowest incidence occurred on 06/15/25 (and also on 06/16/25), with 0 new cases.
+The lowest incidence occurred on 06/15/25 (and on 06/16/25), with 0 new cases.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+------------------------------------------------------------------------
 
 **Identifying Ticks and Public Health Significance**
 
@@ -106,9 +101,9 @@ Centers for Disease Control and Prevention (CDC). (2024d). Preventing tick bites
 
 Keirans, J. E., & Litwak, T. R. 1989. Pictorial key to the adults of hard ticks (*Ixodidae*) east of the Mississippi River. Journal of Medical Entomology, 26(5), 435-448.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+------------------------------------------------------------------------
 
-# **Midterm Corrections**
+**Midterm Corrections**
 
 Dear Dr. Belsare,
 
@@ -174,43 +169,43 @@ Because R₀ \> 1, the infection has the potential to spread and become establis
 
 If R₀ were \< 1, the infection would likely fade out over time.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+------------------------------------------------------------------------
 
-# **Worksheet 4: Multi-host pathogens, Spillover**
+**Worksheet 4: Multi-host pathogens, Spillover**
 
-**1. MERS-CoV is primarily maintained in human populations. (2 points)**
+1\. MERS-CoV is primarily maintained in human populations.
 
 Incorrect
 
 MERS-CoV is not maintained in human populations. The primary reservoir is the camel. Camels harbor the virus endemically and periodically transmit it to humans through direct contact (handling, milking, slaughter) or respiratory droplets.
 
-2.  **Camels serve as the main animal reservoir for MERS-CoV. (2 points)**
+2\. Camels serve as the main animal reservoir for MERS-CoV.
 
-    Correct
+Correct
 
 Camels are the primary animal reservoir for Middle East Respiratory Syndrome Coronavirus (MERS-CoV). The virus has been endemic in camel populations across the Arabian Peninsula, North Africa, and parts of East Africa for decades.
 
-3.  **Humans are dead-end hosts for MERS-CoV. (2 points)**
+3\. Humans are dead-end hosts for MERS-CoV.
 
-    Correct (Depending on the context)
+Correct (Depending on the context)
 
-    In most situations, humans act as dead-end hosts for MERS-CoV because the virus does not circulate sustainably within human populations. Most human infections result from direct contact with infected camels rather than ongoing person-to-person transmission.
+In most situations, humans act as dead-end hosts for MERS-CoV because the virus does not circulate sustainably within human populations. Most human infections result from direct contact with infected camels rather than ongoing person-to-person transmission.
 
-    However, limited human-to-human transmission can occur, particularly in healthcare or household settings, where close contact enables spread through respiratory droplets.  Humans are functionally dead-end hosts under natural conditions, but not strictly so, since transmission is possible in specific high-risk environments.
+However, limited human-to-human transmission can occur, particularly in healthcare or household settings, where close contact enables spread through respiratory droplets.  Humans are functionally dead-end hosts under natural conditions, but not strictly so, since transmission is possible in specific high-risk environments.
 
-4.  **The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (2 points)**
+4\. The estimated case fatality rate for human MERS-CoV infections is approximately 65%.
 
-    Incorrect
+Incorrect
 
-    The case fatality rate (CFR) for human MERS-CoV infections is approximately 35%, not 65%. This is based on confirmed cases reported to the World Health Organization (WHO) and the European Centre for Disease Prevention and Control (ECDC) since the virus was first identified in 2012.
+The case fatality rate (CFR) for human MERS-CoV infections is approximately 35%, not 65%. This is based on confirmed cases reported to the World Health Organization (WHO) and the European Centre for Disease Prevention and Control (ECDC) since the virus was first identified in 2012.
 
-5.  **The epidemic curve indicates this is a point source outbreak. (2 points)**
+5\. The epidemic curve indicates this is a point source outbreak.
 
-    Incorrect
+Incorrect
 
-    The MERS-CoV epidemic curve does not represent a point source outbreak. A point source outbreak occurs when all cases are exposed to the same infection source at roughly the same time, producing a sharp, single peak followed by a rapid decline
+The MERS-CoV epidemic curve does not represent a point source outbreak. A point source outbreak occurs when all cases are exposed to the same infection source at roughly the same time, producing a sharp, single peak followed by a rapid decline
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+------------------------------------------------------------------------
 
 **Worksheet 5: Community Epidemiology Framework**
 
@@ -218,7 +213,7 @@ Camels are the primary animal reservoir for Middle East Respiratory Syndrome Cor
 
 The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units. ​
 
-​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.                                                **5 points**
+​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
 
 Using the community epidemiology framework developed by Fenton and Pedersen (2005), the 2024 Marburg virus outbreak in Rwanda is best classified as an emerging infectious disease rather than a single spillover event. The first human infection likely occurred after exposure to Egyptian rousette bats (*Rousettus aegyptiacus*), which serve as the natural reservoir for Marburg virus. This initial case represents a classic spillover, direct transmission from the wildlife reservoir (H₁) to a novel host (H₂).
 
@@ -226,7 +221,7 @@ However, the outbreak expanded beyond that initial exposure. Most of the 66 conf
 
 The Marburg outbreak illustrates how pathogens can cross species barriers and achieve temporary persistence in human populations when ecological and behavioral conditions, such as health-care exposure, permitted transmission. It demonstrates the importance of controlling infection at the human–wildlife interface and within community settings to prevent a spillover from becoming an emerging disease.
 
-2\. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?                                                              **5 points**
+2\. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
 
 Reducing Marburg virus transmission requires coordinated actions that address both community-level exposure and health-care transmission risks.
 
@@ -238,20 +233,24 @@ As emphasized by Nutt (2025), equitable outbreak response depends on protecting 
 
 Together, these interventions limit both zoonotic spillover and human-to-human amplification, reducing the likelihood that localized outbreaks evolve into broader epidemics.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+------------------------------------------------------------------------
 
 **QPweb – Worksheet 6 Results (Vertico infection)**
 
-|            |       |              |                    |                      |
-|------------|-------|--------------|--------------------|----------------------|
-| **Pond**   | **N** | **Infected** | **Prevalence (%)** | **95 % CI (Sterne)** |
-| **Pond 1** | 20    | 6            | 30.0               | 14.0 – 52.5          |
-| **Pond 2** | 15    | 1            | 6.7                | 0.3 – 30.2           |
++------------+-------+--------------+----------------------+------------------------+
+| **Pond**   | **N** | **Infected** | **Prevalence (%)**   | **95 % CI (Sterne)**   |
++------------+-------+--------------+----------------------+------------------------+
+| **Pond 1** | 20    | 6            | 30.0                 | 14.0 – 52.5            |
++------------+-------+--------------+----------------------+------------------------+
+| **Pond 2** | 15    | 1            | 6.7                  | 0.3 – 30.2             |
++------------+-------+--------------+----------------------+------------------------+
 
 **Fisher’s exact test:** p = 0.1987
 
 The prevalence of *Vertico* infection was **30.0 %** (95 % CI 14.0–52.5 %) in Pond 1 and **6.7 %** (95 % CI 0.3–30.2 %) in Pond 2.\
-Fisher’s exact test yielded **p = 0.1987**, indicating the difference in infection rates between ponds was **not statistically significant** (p \> 0.05).\
+\
+
+Fisher’s exact test yielded **p = 0.1987**, indicating the difference in infection rates between ponds was **not statistically significant** (p \> 0.05).
 
 Although the point estimate is higher in Pond 1, the wide overlapping confidence intervals suggest the observed variation may reflect sampling error rather than a true ecological difference.
 
@@ -261,7 +260,7 @@ Although the point estimate is higher in Pond 1, the wide overlapping confidence
 
 **Nipah Virus**
 
-Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.                                                        **8 points**
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.
 
 Nipah virus shows different transmission patterns in Malaysia and Bangladesh because each region creates its own ecological pathway for spillover. In Malaysia, the presentation shows that changes in farming practices and rezoning brought fruit bats into closer contact with livestock. Domestic animals, especially pigs, acted as bridge species, allowing the virus to move from bats into herds and then into the people who worked around them. This makes the Malaysian system a more indirect transmission route—bat to livestock, then livestock to humans.
 
@@ -271,7 +270,7 @@ These differences shape how prevention works in each region. In Malaysia, the em
 
 **Avian Reovirus**
 
-Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.                                                              **6 points**
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.
 
 Avian reoviruses (ARV) transmit through both horizontal and vertical routes. Horizontal transmission occurs through the fecal–oral route, where birds become infected by ingesting contaminated litter, feed, water, or surfaces. Vertical transmission happens when infection passes from the breeder hen to the chick through the egg.
 
@@ -283,19 +282,19 @@ Example of a wild bird disease caused by ARV, from the presentation: Reovirus in
 
 **Langya henipavirus**
 
-Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?                                           **6 points**
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
 
 Langya virus is a zoonotic henipavirus whose natural reservoir is the shrew, with transmission occurring through direct or indirect contact with infected animals in rural environments. All human cases represent isolated spillover events, with no person-to-person spread, no geographic expansion, and no new cases since 2021. Because of this, LayV is considered a spillover infection rather than a potential EID, as it lacks evidence of sustained transmission, increasing incidence, or epidemic potential.
 
 ------------------------------------------------------------------------
 
-**Worksheet 8 – Baylisascaris procyonis Analysis in Raccoons**
+**Worksheet 8 – *Baylisascaris procyonis* Analysis in Raccoons**
 
 **WILD 6200 – Disease Ecology Lecture 15**
 
 **Methods**
 
-Raccoon necropsy data from Missouri and Arkansas (WS7_data.csv; N = 106) were organized by region (North, Central, South), sex (male, female), and age class (adult, young adult). For each comparison, I created separate .csv files containing a single column of worm counts (num_Bpro), where 0 indicated an uninfected raccoon and any positive integer represented the number of Baylisascaris procyonis worms recovered. Files were grouped by category to allow direct comparison of prevalence between regions, sexes, and age classes.
+Raccoon necropsy data from Missouri and Arkansas (WS7_data.csv; N = 106) were organized by region (North, Central, South), sex (male, female), and age class (adult, young adult). For each comparison, I created separate .csv files containing a single column of worm counts (num_Bpro), where 0 indicated an uninfected raccoon and any positive integer represented the number of *Baylisascaris procyonis* worms recovered. Files were grouped by category to allow direct comparison of prevalence between regions, sexes, and age classes.
 
 All statistical analyses were performed using Quantitative Parasitology on the Web (QPweb). Group comparisons were run using the “Comparison of Prevalences (Fisher’s exact test)” module.
 
@@ -340,3 +339,62 @@ The significant Fisher’s test reflects regional differences in transmission in
 Across all analyses, Baylisascaris procyonis prevalence in raccoons was shaped by a combination of regional variation, sex-specific behavior, and age-structured patterns of exposure. The strongest drivers of infection were geography and sex, with age effects emerging only in areas with high environmental contamination.
 
 This dataset demonstrates how raccoon ecology, landscape structure, and behavioral patterns interact to influence parasitic worm transmission across populations.
+
+------------------------------------------------------------------------
+
+**Worksheet 9**
+
+In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the  United States. What specific human behaviors contributed to the zoonotic spread of *Salmonella*? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection.
+
+Several common behaviors among backyard poultry owners directly increased the risk of zoonotic *Salmonella* transmission:
+
+Frequent, close contact with backyard poultry\
+Many people, especially children, handled birds, picked them up, or allowed them near their faces. Because poultry shed *Salmonella* on feathers, feet, and eggshells, direct contact created frequent opportunities for the bacteria to transfer to hands and, eventually, the mouth.
+
+Inadequate hand hygiene after touching birds or contaminated surfaces\
+The lecture emphasized poor or inconsistent hand-washing as a major driver of infection. Poultry shed *Salmonella* into litter, soil, and coop surfaces. Without proper handwashing after contact with birds, feed, bedding, or coops, people unintentionally ingested the bacteria.
+
+Allowing young children (\<5 years) to handle birds or play in contaminated areas\
+Young children were identified as especially vulnerable in the May 2024 outbreak, with \~43% of cases occurring in this age group. Children have frequented hand-to-mouth behaviors, limited hygiene, and are often allowed to pet or play around poultry, making exposure more likely.
+
+These behaviors increased human infection by creating direct or indirect pathways for *Salmonella* to move from birds → environment → hands → mouth. The outbreak highlighted how human–animal contact, environmental contamination, and hygiene practices interact to drive zoonotic transmission in backyard poultry settings.
+
+Tall fescue grass is commonly infected with a fungal endophyte (*Epichloe coenophiala*) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.
+
+What advantage does Tall fescue gain from being infected with a fungal endophyte.
+
+Tall fescue gains several ecological benefits from infection with *Epichloe coenophiala*. The endophyte enhances drought and heat tolerance, increases persistence and resistance to grazing pressure, and promotes faster regrowth after defoliation. Endophyte infection also improves nutrient uptake and resilience under environmental stress, giving Tall fescue a competitive advantage over non-infected plants. These benefits explain why tall fescue infected with the endophyte performs better than uninfected plants.
+
+ What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems?
+
+The severity of fescue toxicosis is shaped by a combination of climatic, soil, and grazing-system factors. Warm temperatures, drought, and low soil fertility increase alkaloid concentrations and elevate toxicity. Soil microbial communities influence alkaloid breakdown, while heavy grazing pressure increases exposure by forcing cattle to consume stockpiled or stressed plants with higher toxin levels. Environmental stressors on cattle—such as heat load and poor forage quality—further amplify the physiological impacts of ergot alkaloids.
+
+What are the key clinical signs of fescue toxicity in cattle?
+
+Cattle with fescue toxicosis shows reduced weight gain, poor performance, and rough hair coats due to impaired thermoregulation. Affected animals often exhibit heat intolerance, elevated body temperatures, and reduced feed intake. Chronic exposure also contributes to reproductive issues, decreased milk production, and general decline in health and productivity.
+
+------------------------------------------------------------------------
+
+**Worksheet 10**
+
+1\. What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF?
+
+ASF spreads through several ecological pathways that allow the virus to move efficiently through domestic and wild pig populations. Transmission occurs through soft ticks (*Ornithodoros spp*.), direct pig-to-pig contact with infected blood, saliva, or feces, and indirect exposure through contaminated feed, equipment, transport vehicles, or worker clothing. The virus also persists for extended periods in carcasses and pork products, creating an environmental reservoir that continues to drive outbreaks.
+
+Humans are a major amplifier of ASF transmission through several behaviors:
+
+Humans are major mechanical amplifiers of ASF transmission because they transport infected pigs and pork products, engage in swill feeding, move contaminated equipment between farms, and participate in illegal or unregulated pork trade. Weak surveillance systems and limited compensation in smallholder operations further delay reporting, allowing the virus to spread widely before detection.
+
+2\. Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas.
+
+Co-infection with KoRV suppresses the koala immune system, making chlamydial infections more common, more severe, and harder for the host to control. Koalas carrying KoRV show higher bacterial loads, greater tissue damage, and experience higher mortality and infertility rates because the weakened immune response allows Chlamydia to progress rapidly. This co-infection complicates management because antibiotic treatments are less effective in immunocompromised animals and vaccination or recovery efforts must account for KoRV’s role in driving chronic disease and long-term population decline.
+
+3\. Snake Fungal Disease (SFD), caused by *Ophidiomyces ophiodiicola*, is an emerging threat to wild snake populations in North America.
+
+What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)?
+
+FD is difficult to monitor due to low snake detectability, variable clinical signs, and the need for laboratory confirmation to distinguish true infections. The fungus persists in soil and other substrates, creating environmental reservoirs that continually reinfect snakes and hinder localized management. Because free-ranging snakes cannot be easily treated, contained, or quarantined, large-scale management is limited, and long-term surveillance remains challenging for wildlife agencies.
+
+------------------------------------------------------------------------
+
+This Quarto document was reorganized for consistent structure, headings, and visual clarity. Content from all worksheet answers remains unchanged; only formatting, spacing, and layout were refined for readability and presentation.
